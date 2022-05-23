@@ -1,0 +1,8 @@
+li{
+  background-color: bisque;
+  color:black;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  flex: 20px, dotted, blue;
+}
